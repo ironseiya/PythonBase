@@ -16,3 +16,5 @@ elif inp == "足球":
 else:
     print("还是睡觉吧")
 
+
+# 注释
